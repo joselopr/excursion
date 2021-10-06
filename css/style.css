@@ -1,5 +1,8 @@
 html {
   background-color: black;
+  text-align: center;
+  letter-spacing: 1px;
+
 
 }
 
@@ -8,13 +11,18 @@ h2 {
   font-family: 'Amatic SC', cursive;
   font-weight: normal;
   font-size: 50px;
-
 }
 
 p {
     font-family: 'Amatic SC', cursive;
-    color: white;
+    color: grey;
     font-size: 21px;
 }
 
+img {
+  margin: 10px auto;
+}
 
+a {
+  color: turquoise;
+}

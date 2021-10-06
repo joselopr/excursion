@@ -1,0 +1,20 @@
+html {
+  background-color: black;
+
+}
+
+h2 {
+  color: white;
+  font-family: 'Amatic SC', cursive;
+  font-weight: normal;
+  font-size: 50px;
+
+}
+
+p {
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    font-size: 21px;
+}
+
+
